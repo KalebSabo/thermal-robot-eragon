@@ -5,24 +5,22 @@
 Eragon is a small-scale biped designed to teach servo control, basic gait generation, balance feedback with IMU, and real-world mechanical/electrical integration — all while keeping the build affordable, beginner-friendly, and expandable.
 
 ## Progress
-- Developing Electricity Notes
 - **3D Printer Ready**
-- Learning FreeCAD
-- Developing End-to-End workflow
-- Researching Simulation Software 
-- Researching Bipedal Mechanics/Balance
-- Learning C++
-- Theorizing Python/C++ Combination Software (ESP32/Pi Crosstalk)
-- Testing BOM components individually by breadboard for defects
+- Utilizing/Learning FreeCAD
+- Testing End-to-End workflows
+- Learning NVIDIA Isaac Sim 
+- Researching Mechanical components/best practices
+- **Bluetooth-controlled ESP32 Ready** 
+- Prepping for ESP32/Pi crosstalk
 <tr>
     <td align="center">
-        <img src="./05_Images/Progress/ESP32building.jpg" 
+        <img src="./05_Images/Progress/FirstServo.jpg" 
                 alt= "ESP32 Building"
                 width="300"
                 height="300"
                 style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
                 >
-            <br><strong>Current Progress:</strong><br>Building/Programming ESP32
+            <br><strong>Current Progress:</strong><br>Designing Pelvis in FreeCAD
     </td>
 </tr>
 
