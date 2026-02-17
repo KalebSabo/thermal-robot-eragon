@@ -2,7 +2,7 @@
 
 **A compact, mostly 3D-printed bipedal walking robot (~30 cm tall / 1 ft)** built as a hands-on robotics learning project.
 
-Eragon is a small-scale biped designed to teach servo control, basic gait generation, balance feedback with IMU, and real-world mechanical/electrical integration — all while keeping the build affordable, beginner-friendly, and expandable.
+Eragon is a small-scale biped designed to showcase servo control, basic gait generation, balance, and real-world mechanical/electrical integration
 
 ## Progress
 - **3D Printer Ready**
