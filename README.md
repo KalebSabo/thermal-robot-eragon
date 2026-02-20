@@ -13,7 +13,8 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
 - Researching Mechanical components/best practices
 - **Bluetooth-controlled ESP32 Ready** 
 - **High Level Code Architecture Ready**
-
+<table>
+<br><strong>Current Progress:</strong><br>Designing Pelvis in FreeCAD/Setting up Sim
 <tr>
     <td align="center">
         <img src="./05_Images/Progress/FirstServo.jpg" 
@@ -22,9 +23,19 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
                 height="300"
                 style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
                 >
-            <br><strong>Current Progress:</strong><br>Designing Pelvis in FreeCAD/Setting up Sim
     </td>
 </tr>
+<tr>
+    <td align="center">
+        <img src="./05_Images/Progress/LegMk1.png" 
+                alt= "CAD Building"
+                width="300"
+                height="300"
+                style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+                >   
+    </td>
+</tr>
+</table>
 
 ## System Architecture
 * **Medulla:** Coordination, Inverse Kinematics, and Serial Bridge. (Pi)

@@ -19,8 +19,6 @@
 - Supports CAD add-ons
     - Perhaps a revist once Eragon is built for an **aesthetic upgrade**
 
-
-
 ### Fusion360
 - Cloud connections
 - Easy integration into manufacturing, sim and teaming up. **End-to-End workflow.** 
