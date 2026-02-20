@@ -24,10 +24,18 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
                 style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
                 >
     </td>
+    <td align="center">
+        <img src="./05_Images/Progress/CADLegMk1.png" 
+                alt= "CAD Building"
+                width="300"
+                height="300"
+                style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0,2);"
+                >   
+    </td>
 </tr>
 <tr>
     <td align="center">
-        <img src="./05_Images/Progress/LegMk1.png" 
+        <img src="./05_Images/Progress/LeftLegMk1.jpg" 
                 alt= "CAD Building"
                 width="300"
                 height="300"
