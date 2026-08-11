@@ -65,4 +65,4 @@ docs/          Definitions, FAQ, and project logbook
 MIT License — feel free to fork, modify, and build your own version!
 
 ---
-Project Eragon – because even short robots can be mighty.
+Project Eragon – from humble beginnings
