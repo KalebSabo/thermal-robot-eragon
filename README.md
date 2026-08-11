@@ -17,7 +17,7 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
 <br><strong>Current Progress:</strong><br>Designing Pelvis in FreeCAD/Setting up Sim
 <tr>
     <td align="center">
-        <img src="./05_Images/Progress/FirstServo.jpg" 
+        <img src="./media/progress/FirstServo.jpg" 
                 alt= "ESP32 Building"
                 width="300"
                 height="300"
@@ -25,7 +25,7 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
                 >
     </td>
     <td align="center">
-        <img src="./05_Images/Progress/CADLegMk1.png" 
+        <img src="./media/progress/CADLegMk1.png" 
                 alt= "CAD Building"
                 width="300"
                 height="300"
@@ -35,7 +35,7 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
 </tr>
 <tr>
     <td align="center">
-        <img src="./05_Images/Progress/LeftLegMk1.jpg" 
+        <img src="./media/progress/LeftLegMk1.jpg" 
                 alt= "CAD Building"
                 width="300"
                 height="300"
@@ -45,6 +45,18 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
 </tr>
 </table>
 
+## Repository Structure
+
+```
+hardware/      Electronics BOM and procurement notes
+mechanical/    CAD models, print files, and assembly notes
+firmware/      Reflex layer — ESP32 / embedded actuation
+software/      Medulla layer — Pi bridge, IK, coordination
+simulation/    URDF models and physics / Isaac Sim work
+media/         Progress photos and reference images
+docs/          Definitions, FAQ, and project logbook
+```
+
 ## System Architecture
 * **Medulla:** Coordination, Inverse Kinematics, and Serial Bridge. (Pi)
 * **Reflex:** Low-level PWM and sensor feedback. (ESP32)
@@ -53,4 +65,4 @@ This repository contains the "Medulla" (Pi Bridge) and "Reflex" (ESP32 Actuation
 MIT License — feel free to fork, modify, and build your own version!
 
 ---
-Project Eragon – because even short robots can be mighty.
+Project Eragon – from humble beginnings
