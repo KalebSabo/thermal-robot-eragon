@@ -35,3 +35,7 @@
     - Vertical axis: A line that runs from the top to the bottom of an object
     - i.e. rudder in an airplane, Nose left/right
 
+### State Machine (ESP32)
+- Firmware pattern where the ESP32 is always in one named mode and only changes mode on defined events
+- Full note (states, transitions, Eragon gait example): [`docs/state-machine.md`](./state-machine.md)
+
