@@ -59,3 +59,7 @@ python3 gait_subscriber.py
 mosquitto_pub -t eragon/gait/state -m walking -r
 mosquitto_pub -t eragon/gait/state -m standing -r
 ```
+
+## Test state-machine template
+
+Three-command FSM (calibration → forward → stop) with mock sensors lives in [`test/`](./test/notes.md). Use the `eragon/test/*` topic namespace so it does not collide with gait telemetry above.
